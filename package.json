@@ -2,7 +2,7 @@
   "name": "nal-kitties",
   "version": "1.0.0",
   "description": "nal kitties shop",
-  "main": "truffle.js",
+  "main": "src/index.html",
   "directories": {
     "test": "test"
   },
